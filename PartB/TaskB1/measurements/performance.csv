@@ -1,0 +1,10 @@
+test,records_or_mb,method,time_ms
+line_count,1,unbuffered,2895
+line_count,1,buffered,32
+line_count,10,unbuffered,42900
+line_count,10,buffered,52
+line_count,50,unbuffered,179624
+line_count,50,buffered,164
+pass_search,1000,scan,25
+pass_search,10000,scan,48
+pass_search,100000,scan,141

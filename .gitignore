@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+out/
+bin/
+*.class
+*.log
+.env
+db.properties

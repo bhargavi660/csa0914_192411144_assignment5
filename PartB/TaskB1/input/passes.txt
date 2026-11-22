@@ -1,0 +1,8 @@
+P1001|192411101|Arun Kumar|R12|Main Gate|2027-06-30|450.00
+P1002|192411102|Damaged Name|R12|Library|not-a-date|not-number
+P1003|192411103|Bhargavi N.|R12|Engineering Block|2027-12-31|500.00
+P1004|192411104|Divya|R09|Main Gate|2027-08-15|450.00
+P1005|192411105|Missing Amount|R12|Hostel|2027-09-30|
+P1006|192411106|Wrong Field Count|R12|Hostel
+
+P1007|192411107|Karthik|R10|Sports Complex|2027-10-31|475.50
